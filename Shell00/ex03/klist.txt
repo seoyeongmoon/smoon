@@ -1,0 +1,5 @@
+Credentials cache: API:D00BF727-DD5E-4675-B364-954FF4B040DF
+        Principal: smoon@42SEOUL.KR
+
+  Issued                Expires             Flags    Principal
+Feb 16 19:56:54 2021  Feb 17 05:56:54 2021  FPRIA  krbtgt/42SEOUL.KR@42SEOUL.KR
